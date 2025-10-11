@@ -39,7 +39,7 @@ A comprehensive social media backend system built with Node.js, Express.js, Mong
 - Helmet security headers
 - Password hashing with bcrypt
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB with Mongoose ODM
@@ -226,7 +226,7 @@ PUT /api/notifications/:id/read
 Authorization: Bearer <token>
 ```
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 social-media-backend/

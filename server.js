@@ -77,7 +77,7 @@ const initializeDatabases = async () => {
 initializeDatabases();
 
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  console.log(`Hoshi Net Server running on port ${PORT}`);
 });
 
 module.exports = app;
